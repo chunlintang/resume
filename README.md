@@ -1,1 +1,12 @@
-# resume
+## 个人信息
+
+**姓名**: 唐春林
+
+**性别**: 男
+
+**邮箱**: tangchunlinit@foxmail.com
+
+**电话**: 13261269430
+
+**博客**: https://www.mantis.me
+
