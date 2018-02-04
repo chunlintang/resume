@@ -26,13 +26,17 @@
 
 ##### 外呼系统
 
+// TODO
+
 ##### 催收系统
 
-
+// TODO
 
 ### 北京图优谱信息技术有限公司 （2015年4月 ~ 2016年6月）
 
+##### 数字化管理平台
 
+// TODO
 
 ---
 
@@ -41,8 +45,8 @@
 
 
 - 框架: Laravel/Yaf
-- 数据库相关: MySQL
-- 版本控制、自动化部署工具: Composer
+- 数据库相关: MySQL/MongoDB
+- 版本控制、自动化部署工具: Git/Composer
 - 单元测试: PHPUnit
 - 中间件: Nginx/Redis
 
