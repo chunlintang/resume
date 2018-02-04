@@ -44,7 +44,7 @@
 
 
 
-- 框架: Laravel/Yaf
+- 框架: Laravel/Yaf/ThinkPHP
 - 数据库相关: MySQL/MongoDB
 - 版本控制、自动化部署工具: Git/Composer
 - 单元测试: PHPUnit
